@@ -4,6 +4,9 @@ The CAN bus is a broadcast type of bus. This means that all nodes can "hear" all
 
   ## Hardware Used: ##
   LPC 2129 Single-chip 32-bit microcontroller; 256 KB ISP/IAP Flash with 10-bit ADC and CAN.
+  
+  ## Block Diagram: ##
+  ![block diagram](https://github.com/sourabh-rb/can-protocol/blob/master/block-diagram.png )
 
 ## CAN Registers ##
 Name  | Description|Access|Resect Value| Address
